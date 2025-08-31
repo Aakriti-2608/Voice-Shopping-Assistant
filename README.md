@@ -128,7 +128,7 @@ Easily deploy with:
 ---
 
 ## 📸 Screenshots 
-![App Screenshot](https://raw.githubusercontent.com/himanshu-rawat07/voice-shopping-assistant/main/public/screenshots/app-preview.png)
+![App Screenshot](https://raw.githubusercontent.com/Aakriti-2608/voice-shopping-assistant/main/public/screenshots/app-preview.png)
 
 - ✅ Home UI with Gradient Background  
 - ✅ Voice Input with Mic Button  
@@ -139,8 +139,8 @@ Easily deploy with:
 
 ## 👨‍💻 Author
 
-**Himanshu Rawat**  
-🔗 [GitHub](https://github.com/himanshu-rawat07)  
+**Aakriti Upadhyay**  
+🔗 [GitHub](https://github.com/Aakriti-2608)  
 
 ---
 
