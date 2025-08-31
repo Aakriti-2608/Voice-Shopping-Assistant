@@ -123,7 +123,7 @@ Easily deploy with:
 - **Netlify** → `netlify deploy`  
 - **Firebase Hosting** → `firebase deploy`  
 
-👉 Deployed Live at: [🔗 Your Deployment Link Here](https://your-live-link.com)
+👉 Deployed Live at: [🔗 Your Deployment Link Here](https://voice-shopping-assistant-two.vercel.app/)
 
 ---
 
